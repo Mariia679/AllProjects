@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Main.java&apos; to &apos;Lesson2/src/main/java/ua.com.buy_me.entity&apos;&#x0A;- Original project: &apos;Maven_Mapping&apos;&#x0A;- Destination element: &apos;Lesson2/src/main/java/ua.com.buy_me.entity&apos;&#x0A;- Original element: &apos;ua.com.world.entity.Main.java&apos;" description="Copy compilation unit" destination="=Lesson2/src\/main\/java&lt;ua.com.buy_me.entity" element1="/src\/main\/java&lt;ua.com.world.entity{Main.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1484929438585" units="1" version="1.0"/>
+</session>
